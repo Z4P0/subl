@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"FileZilla SFTP Import",
+		"GitGutter",
+		"Jade",
+		"JS Snippets",
+		"Markdown Preview",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep257",
+		"SublimeLinter-shellcheck",
+		"Theme - Soda"
+	]
+}
